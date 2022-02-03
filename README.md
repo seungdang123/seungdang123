@@ -1,3 +1,5 @@
+<p align="center"><a href="https://seungdang123.github.io"><img width="80%" src="seunghwan.png" /></a></p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2304DB09&vCenter=true&lines=HELLO%2C+I'M+SEUNGHWAN)](https://git.io/typing-svg)
 
 
