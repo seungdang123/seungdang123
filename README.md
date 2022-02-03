@@ -1,7 +1,7 @@
 <p align="center"><a href="https://seungdang123.github.io"><img width="90%" height="90%" src="seunghwan.png" /></a></p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=&color=%2312A11A&center=true&width=440&height=45&vCenter=true&size=22&lines=Let's+be+a+nice+developer.;Stay+foolish...)"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=&color=%2312A11A&center=true&width=440&height=45&vCenter=true&size=22&lines=Let's+be+a+nice+developer.;Stay+foolish..."></a>
 </p>
 
 
