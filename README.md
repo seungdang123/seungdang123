@@ -6,7 +6,7 @@
 <p align="center"><a href="https://seungdang123.github.io"><img width="80%" height="80%" src="profile.png" /></a></p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=&color=%23F87900&center=true&width=440&height=45&vCenter=true&size=22&lines=Let's+be+a+nice+developer.;Stay+foolish..."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=&color=%23F8F8F8&center=true&width=440&height=45&vCenter=true&size=22&lines=Let's+be+a+nice+developer.;Stay+foolish..."></a>
 </p>
 
 
