@@ -1,6 +1,8 @@
 <p align="center"><a href="https://seungdang123.github.io"><img width="90%" height="90%" src="seunghwan.png" /></a></p>
 
+<div align=center>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2312A11A&vCenter=true&lines=Let's+be+a+nice+developer.;Stay+foolish...)](https://git.io/typing-svg)
+</div>
 
 
 <div align=center>
