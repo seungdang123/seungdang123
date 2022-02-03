@@ -4,10 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=&color=%2312A11A&vCenter=true&lines=Let's+be+a+nice+developer.;Stay+foolish...)"></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2312A11A&vCenter=true&lines=Let's+be+a+nice+developer.;Stay+foolish...)](https://git.io/typing-svg)
-
-
-
 
 <div align=center>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
