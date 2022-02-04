@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=200&section=header&fontSize=90&&text="Welcome!"&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&fontSize=90&&text="Welcome!"&animation=fadeIn)
 
 <h3 align="center">
   I'm Seunghwan
