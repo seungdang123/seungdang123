@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=200&section=header&fontSize=90&animation=fadeIn&text="Hello!")
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&fontSize=90&&text="Hello!"&animation=fadeIn)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=&color=%23F8F8F8&center=true&width=440&height=45&vCenter=true&size=22&lines=Let's+be+a+nice+developer.;Stay+foolish..."></a>
