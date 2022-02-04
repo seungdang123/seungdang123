@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&fontSize=90&&text="Welcome!"&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=200&section=header&fontSize=90&&text="Welcome!"&animation=fadeIn)
 
 <h3 align="center">
-  I'm Seunghwan.
+  I'm Seunghwan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
