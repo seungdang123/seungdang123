@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=&color=%23F8F8F8&center=true&width=440&height=45&vCenter=true&size=22&lines=Let's+be+a+nice+developer!;Stay+foolish..."></a>
+  <a href="https://readme-typing-svg.herokuapp.com?font=Rock+Salt&color=%23F7F7F7&size=13&duration=4000&lines=follow+your+heart.;i+never+lose.+i+either+win+or+learn;slow+and+steady+win+the+race."></a>
 </p>
 
 
