@@ -10,11 +10,13 @@
 </p>
 
 <div align=center>
-  <img src="https://img.shields.io/badge/HTML5-0E1117?style=flat-square&logo=HTML5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/CSS3-0E1117?style=flat-square&logo=CSS3&logoColor=1572B6"/>
+
   <img src="https://img.shields.io/badge/JavaScript-0E1117?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-0E1117?style=flat-square&logo=TypeScript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/React-0E1117?style=flat-square&logo=React&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next-0E1117?style=flat-square&logo=Next.js&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Nest-0E1117?style=flat-square&logo=NestJS&logoColor=E0234E"/>
+  
 </div>
 
 <hr />
